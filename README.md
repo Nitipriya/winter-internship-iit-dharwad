@@ -30,10 +30,8 @@ mkdir bayes_classifier k_nn k_means gmm ref_template
 ### Run the models
 
 Each folder will eventually contain:
-- Source code (`.py`, `.ipynb`)
-- Sample datasets
+- Source code (`.ipynb`)
 - Results and plots
-- Instructions for use
 
 ## 📌 Purpose
 
